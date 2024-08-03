@@ -345,6 +345,7 @@ GameObject:
   - component: {fileID: 534961062}
   - component: {fileID: 534961066}
   - component: {fileID: 534961067}
+  - component: {fileID: 534961068}
   m_Layer: 0
   m_Name: Kerem
   m_TagString: Untagged
@@ -466,6 +467,19 @@ CircleCollider2D:
   m_Offset: {x: 0.39, y: 0.98}
   serializedVersion: 2
   m_Radius: 0.41
+--- !u!114 &534961068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 534961061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb2e07dcf4dc6f429c65cc52719c2c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  torqueAmount: 3
 --- !u!1 &991186363
 GameObject:
   m_ObjectHideFlags: 0
