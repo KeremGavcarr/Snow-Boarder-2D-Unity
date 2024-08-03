@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Snow Boarder.sln"
+    "dotnet.defaultSolution": "Snow-Boarder-2D-Game.sln"
 }
